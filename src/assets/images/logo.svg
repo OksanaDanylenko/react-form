@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 213 33" width="213" height="33">
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 18px;letter-spacing: 0px;fill: #666666;font-family: "Helvetica Neue";font-weight: 300 } 
+		.txt1 { font-size: 20px;letter-spacing: 0px;fill: #2fa2c3;font-family: "Helvetica Neue";font-weight: bold;text-anchor: end } 
+	</style>
+	<g id="Group 6">
+		<text id="Support Portal" style="transform: matrix(1,0,0,1,103.265,28.738)" >
+			<tspan x="0" y="0" class="txt0">Support Portal</tspan>
+		</text>
+		<text id="Bank" style="transform: matrix(2.068,0,0,2.068,97.831,29.574)" >
+			<tspan x="0" y="0" class="txt1">Bank</tspan>
+		</text>
+	</g>
+</svg>
