@@ -1,10 +1,14 @@
-1. In the project directory, you can run:
+1. Install all dependencies
+
+### `npm install`
+
+2. In the project directory, you can run:
 
 ### `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-2. For convert files .less to .css
+3. For convert files .less to .css
 
 ### `npm run watch`
